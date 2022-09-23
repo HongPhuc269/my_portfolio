@@ -1,0 +1,18 @@
+.text-content {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  margin-top: 50px;
+  font-size: 25px;
+  color:grey;
+  /* bottom: 100%; */
+}
+
+
+.me{
+  font-weight: bold;
+}
+
+.text-content .aboutme {
+  margin-top: 10px;
+}

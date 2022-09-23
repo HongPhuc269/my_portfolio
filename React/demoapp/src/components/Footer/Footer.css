@@ -1,0 +1,32 @@
+.footer{
+    max-width: 100%;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.footer .list-icon {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    left: 50%;
+    /* transform: translateX(-50%); */
+    /* position: absolute; */
+}
+.list-icon .icon{
+    cursor: pointer;
+    font-size: 30px;
+    margin-right: 15px;
+}
+.footer .text{
+    font-size: 20px;
+    margin: 20px 0px;
+    font-style: oblique;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+
